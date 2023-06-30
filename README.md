@@ -2,30 +2,33 @@ KOVID
 
 This is a web based application developed for health related based website.
 
-This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, andGithub.
 
 Project Link - https://happy-ground-0869bfa00.3.azurestaticapps.net
 project demo video link- https://youtu.be/jWnDjoNcVTM
 
-Azure technologies used for Project
+Azure technologies used for Project :-
 
 • Static web apps
 
 • Health bot
 
-Features and Functionalities
+
+Features and Functionalities:-
 
 • Interactive and responsive UI and high speed performance.
 
 • Has many graphical and visual innovative effects.
 
-• Has collection of many web pages including Home About Us Contact, Menu and Covid information etc
+• Has collection of many web pages including Home About Us Contact, Menu and Covid information etc.
 
-• User can know about covid information through this website
+• User can know about covid information through this website.
 
-• Included the feedback Survey form for furter better development
+• Included the feedback Survey form for furter better development.
 
-Screenshots
+
+Screenshots :-
+
 
 Home
 
@@ -48,7 +51,7 @@ Healthbot
 ![2023-06-30 (10)](https://github.com/20A31A0112/Project-1/assets/124118484/33258be3-522e-4378-99be-6d46882abeef)
 
 
-Tech Stack 
+Tech Stack :-
 
 • Azure(Hosting)
 • HTML
